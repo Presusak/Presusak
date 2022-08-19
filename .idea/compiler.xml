@@ -12,5 +12,8 @@
         <module name="CRM_Keeper_Automation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CRM_Tedi_Automation" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
