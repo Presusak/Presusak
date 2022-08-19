@@ -1,0 +1,10 @@
+14:53:38,120 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:53:38,125 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:53:38,128 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:53:38,130 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:53:38,131 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.agrawal/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:53:38,562 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:53:38,562 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:53:38,563 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:53:38,563 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:53:38,564 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/sakshi.agrawal/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

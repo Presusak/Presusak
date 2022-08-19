@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+		<listener class-name="com.CRM_Tedi.listeners.ExtentReporterNG" />
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="com.CRM_Tedi.listeners.CustomListeners" />
+	</listeners>
+  <test name="Identity Login Test Cases">
+    <classes>
+        <class name="com.CRM_Tedi.testcases.IssuesTest"></class>
+        <class name="com.CRM_Tedi.testcases.BaseTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+<!---->
