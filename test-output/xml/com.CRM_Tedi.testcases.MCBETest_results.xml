@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="291.073">
+  <properties />
+  
+  
+            <testcase name="verify_NewOrExistMcbe" time="24.957" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verify_McbeMatchNewOrExist" time="4.121" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verify_McbeMatch_UpdateAppStatus" time="45.557" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verify_McbeMatch_StartAppFlow" time="30.990" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verifyMcbeRecord" time="8.304" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verify_Login" time="40.966" classname="com.CRM_Tedi.testcases.MCBETest" />
+                <testcase name="verify_McbeMatchRecord" time="136.178" classname="com.CRM_Tedi.testcases.MCBETest" />
+      
+</testsuite>

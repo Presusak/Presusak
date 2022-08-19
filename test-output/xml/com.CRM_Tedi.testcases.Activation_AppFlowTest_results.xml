@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="277.646">
+  <properties />
+  
+  
+            <testcase name="verify_NewOrExistActivation" time="17.191" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_ActMatch_StartAppProcess" time="47.170" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_NewOrExistActMatch" time="8.192" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_Login" time="36.581" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_ActMatch_UpdateAppStatus" time="55.684" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_ActMatch_EnterAndSaveRecord" time="64.425" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+                <testcase name="verify_MandatoryFields" time="48.403" classname="com.CRM_Tedi.testcases.Activation_AppFlowTest" />
+      
+</testsuite>

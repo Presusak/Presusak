@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="272.358">
+  <properties />
+  
+  
+            <testcase name="verify_TotalAmountWithDiscount" time="8.442" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_GetMinimumProdDate" time="30.144" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_InvoiceStatus" time="0.267" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_AddProdSubInvoice" time="0.000" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_SubInvoicePayment" time="21.852" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_GenerateSubInvoice" time="32.769" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_KeeperCRMLogin" time="32.180" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_NewProductLineItem" time="48.419" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_ManualDiscount" time="0.101" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_Invoice" time="17.078" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_Payment" time="27.795" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_SubInvoiceStatus" time="23.361" classname="com.CA.testcases.KeeperInvoiceTest" />
+                <testcase name="verify_SendInvoiceAndDates" time="29.950" classname="com.CA.testcases.KeeperInvoiceTest" />
+      
+</testsuite>

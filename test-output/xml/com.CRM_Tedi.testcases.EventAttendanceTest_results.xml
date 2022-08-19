@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="90.866">
+  <properties />
+  
+  
+            <testcase name="verify_NewEventAtt" time="16.209" classname="com.CRM_Tedi.testcases.EventAttendanceTest" />
+                <testcase name="verify_Login" time="34.508" classname="com.CRM_Tedi.testcases.EventAttendanceTest" />
+                <testcase name="verify_EventAttRecord" time="40.149" classname="com.CRM_Tedi.testcases.EventAttendanceTest" />
+      
+</testsuite>

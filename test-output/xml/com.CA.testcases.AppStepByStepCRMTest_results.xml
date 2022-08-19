@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="133.975">
+  <properties />
+  
+  
+            <testcase name="verify_OptionsAppType" time="91.646" classname="com.CA.testcases.AppStepByStepCRMTest" />
+                <testcase name="verify_OpenAppointment" time="8.786" classname="com.CA.testcases.AppStepByStepCRMTest" />
+                <testcase name="verify_AppointmentLogin" time="33.543" classname="com.CA.testcases.AppStepByStepCRMTest" />
+      
+</testsuite>

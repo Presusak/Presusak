@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="75.987">
+  <properties />
+  
+  
+            <testcase name="verify_NewMascottChallenge" time="5.483" classname="com.CA.testcases.MascotChallengeCRMTest" />
+                <testcase name="verify_ActivateRec" time="0.000" classname="com.CA.testcases.MascotChallengeCRMTest" />
+                <testcase name="verify_SaveMandatoryRec" time="2.412" classname="com.CA.testcases.MascotChallengeCRMTest" />
+                <testcase name="verify_loginMasChall" time="24.870" classname="com.CA.testcases.MascotChallengeCRMTest" />
+                <testcase name="verify_MandatoryFields" time="10.288" classname="com.CA.testcases.MascotChallengeCRMTest" />
+                <testcase name="verify_DeactivateRec" time="32.934" classname="com.CA.testcases.MascotChallengeCRMTest" />
+      
+</testsuite>

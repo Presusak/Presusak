@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="70.303">
+  <properties />
+  
+  
+            <testcase name="verify_NewSchoolAmbassador" time="5.429" classname="com.CA.testcases.SchoolAmbCRMTest" />
+                <testcase name="verify_MandatoryFields" time="16.174" classname="com.CA.testcases.SchoolAmbCRMTest" />
+                <testcase name="verify_loginSA" time="24.586" classname="com.CA.testcases.SchoolAmbCRMTest" />
+                <testcase name="verify_SaveSchoolAmbassador" time="2.303" classname="com.CA.testcases.SchoolAmbCRMTest" />
+                <testcase name="verify_ActivateRecord" time="0.000" classname="com.CA.testcases.SchoolAmbCRMTest" />
+                <testcase name="verify_DeactivateRecord" time="21.811" classname="com.CA.testcases.SchoolAmbCRMTest" />
+      
+</testsuite>

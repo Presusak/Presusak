@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="529.007">
+  <properties />
+  
+  
+            <testcase name="verifyTediCRMLogin" time="24.953" classname="com.CA.testcases.MultiEventAttActIssueTediCRMTest" />
+                <testcase name="verifyMatchLink" time="26.269" classname="com.CA.testcases.MultiEventAttActIssueTediCRMTest" />
+                <testcase name="verifyEventDetails" time="477.785" classname="com.CA.testcases.MultiEventAttActIssueTediCRMTest" />
+      
+</testsuite>

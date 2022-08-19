@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="85.842">
+  <properties />
+  
+  
+            <testcase name="verify_Hpe_MandatoryFields" time="23.620" classname="com.CA.testcases.HealthPeCRMTest" />
+                <testcase name="verify_NewHealthPe" time="14.620" classname="com.CA.testcases.HealthPeCRMTest" />
+                <testcase name="verify_loginHealthPe" time="42.572" classname="com.CA.testcases.HealthPeCRMTest" />
+                <testcase name="verify_Hpe_SaveRecord" time="5.030" classname="com.CA.testcases.HealthPeCRMTest" />
+      
+</testsuite>

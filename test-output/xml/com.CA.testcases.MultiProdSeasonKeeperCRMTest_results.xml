@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="885.755">
+  <properties />
+  
+  
+            <testcase name="verify_KeeperCRMLogin" time="33.132" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+                <testcase name="verify_AddMultiProduct" time="845.896" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+                <testcase name="verifyReferenceDataLink" time="6.727" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+                <testcase name="verify_EnterAndSaveSeason" time="0.000" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+                <testcase name="verify_NewOrExistSeason" time="0.000" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+                <testcase name="verify_AddMultiSeriesMatch" time="0.000" classname="com.CA.testcases.MultiProdSeasonKeeperCRMTest" />
+      
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="252.034">
+  <properties />
+  
+  
+            <testcase name="verify_AppointmentLogin" time="65.468" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_MandatoryRecord" time="35.970" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_OptionsAppType" time="99.180" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_PartiOutcomeTabVisibility" time="0.209" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_OpenAppointment" time="43.087" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_MandateField_CloseAppointment" time="0.000" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_AppTypeChange" time="3.414" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_ExistAppRec" time="0.001" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_ExistAppRecSaveAndCheck" time="0.001" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_CloseAppointment" time="0.000" classname="com.CA.testcases.AppointmentCRMTest" />
+                <testcase name="verify_AppMandatoryRec" time="4.704" classname="com.CA.testcases.AppointmentCRMTest" />
+      
+</testsuite>

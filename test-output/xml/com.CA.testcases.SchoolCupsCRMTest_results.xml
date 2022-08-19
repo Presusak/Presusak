@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="91.115">
+  <properties />
+  
+  
+            <testcase name="verify_loginSchoolCups" time="33.466" classname="com.CA.testcases.SchoolCupsCRMTest" />
+                <testcase name="verify_MandatoryFields" time="19.044" classname="com.CA.testcases.SchoolCupsCRMTest" />
+                <testcase name="verify_DeactivateRecord" time="19.004" classname="com.CA.testcases.SchoolCupsCRMTest" />
+                <testcase name="verify_NewSchoolCups" time="14.597" classname="com.CA.testcases.SchoolCupsCRMTest" />
+                <testcase name="verify_SaveRecordAndMessage" time="5.004" classname="com.CA.testcases.SchoolCupsCRMTest" />
+                <testcase name="verify_ActivateRecord" time="0.000" classname="com.CA.testcases.SchoolCupsCRMTest" />
+      
+</testsuite>

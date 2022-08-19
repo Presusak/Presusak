@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="342.392">
+  <properties />
+  
+  
+            <testcase name="Login" time="39.930" classname="com.CRM_Tedi.testcases.DeliveriesTest" />
+                <testcase name="verify_NewOrExistDel" time="13.254" classname="com.CRM_Tedi.testcases.DeliveriesTest" />
+                <testcase name="verify_MandatoryErrorMsg" time="0.305" classname="com.CRM_Tedi.testcases.DeliveriesTest" />
+                <testcase name="verify_SaveMandatoryFields" time="288.903" classname="com.CRM_Tedi.testcases.DeliveriesTest" />
+      
+</testsuite>

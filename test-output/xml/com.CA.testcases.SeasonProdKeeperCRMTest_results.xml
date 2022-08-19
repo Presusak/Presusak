@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="15"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="124.775">
+  <properties />
+  
+  
+            <testcase name="verify_SaveAndCheckRecProd" time="4.613" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_NewOrExistSeason" time="5.213" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_NewOrExistProd" time="13.715" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verifyReferenceDataLink" time="5.396" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_NewOrExistMatch" time="6.950" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_MandatoryRecMatch" time="2.595" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_NewOrExistSeries" time="6.971" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_MandatoryRecSeries" time="6.195" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_KeeperCRMLogin" time="32.034" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_SaveAndCheckRecMatch" time="4.263" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_SeriesActiveStatusChange" time="14.458" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_MatchActiveStatusChange" time="14.562" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_EnterAndSaveSeason" time="1.038" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_MandatoryRecProd" time="4.413" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+                <testcase name="verify_SaveAndCheckRecSeries" time="2.359" classname="com.CA.testcases.SeasonProdKeeperCRMTest" />
+      
+</testsuite>

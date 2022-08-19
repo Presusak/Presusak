@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="121.922">
+  <properties />
+  
+  
+            <testcase name="verify_GetDeactivateRecord" time="17.062" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+                <testcase name="verify_Login" time="71.621" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+                <testcase name="verify_GetActivateRecord" time="0.002" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+                <testcase name="verify_NewOrExistCardItem" time="4.236" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+                <testcase name="verify_ExistFunctionalArea" time="23.975" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+                <testcase name="verify_SaveMandatoryFields" time="5.026" classname="com.CRM_Tedi.testcases.ScoreCardItemsTest" />
+      
+</testsuite>

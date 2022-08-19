@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="156.991">
+  <properties />
+  
+  
+            <testcase name="verify_TediLogin" time="25.822" classname="com.CA.testcases.MatchViaSeasSeriTediCRMTest" />
+                <testcase name="verify_CreateSeriesMatchRec" time="112.638" classname="com.CA.testcases.MatchViaSeasSeriTediCRMTest" />
+                <testcase name="verify_EnterAndSaveSeason" time="4.150" classname="com.CA.testcases.MatchViaSeasSeriTediCRMTest" />
+                <testcase name="verify_NewOrExistSeason" time="14.381" classname="com.CA.testcases.MatchViaSeasSeriTediCRMTest" />
+      
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="146.307">
+  <properties />
+  
+  
+            <testcase name="verify_OppSaveMandatoryFields" time="4.269" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_NewOrExistLead" time="7.763" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_QualifyLead" time="56.609" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_ContactCreated" time="8.772" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_KeeperCRMLogin" time="44.210" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_SaveAndCheckFieldsRecord" time="4.287" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_OppWonOrLost" time="6.207" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_OppMandatoryFields" time="4.424" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+                <testcase name="verify_MandatoryFields" time="9.766" classname="com.CA.testcases.ContactViaLeadNOppTest" />
+      
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="444.804">
+  <properties />
+  
+  
+            <testcase name="verifyMatchLink" time="38.353" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+                <testcase name="verifyEnterAndSaveDeliveries" time="350.145" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+                <testcase name="verifyTediLogin" time="31.200" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+                <testcase name="verifyNewOrExistDeliveryWindow" time="4.521" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+                <testcase name="verifyEnterAndSaveDelWin" time="10.255" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+                <testcase name="verifyNewOrExistDeliveries" time="10.330" classname="com.CA.testcases.DeliveryWindowTediCRMTest" />
+      
+</testsuite>

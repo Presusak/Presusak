@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Identity Login Test Cases"
+           tests="15"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="151.079">
+  <properties />
+  
+  
+            <testcase name="verify_CensusSaveAndMandatoryRec" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompDeactivate" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompNewCensusSubGrid" time="96.562" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CensusDeactivate" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompetitionRec" time="10.239" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_loginCensus" time="27.939" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_NewCensus" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_ProgMandatoryFields" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CensusActivate" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_OpenAdmin" time="6.702" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompetitionLink" time="5.254" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompProgMandatoryCheck" time="4.383" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompMandatoryFields" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompProgSection" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+                <testcase name="verify_CompActivate" time="0.000" classname="com.CA.testcases.CensusCRMTest" />
+      
+</testsuite>
